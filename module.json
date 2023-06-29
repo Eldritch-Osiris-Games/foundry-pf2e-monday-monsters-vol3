@@ -1,0 +1,46 @@
+{
+  "title": "Monday Monsters Vol. 3: Weirds & Wonders",
+  "id": "foundry-pf2e-monday-monsters-vol3",
+  "description": "Foundry Module for Monday Monsters Volume 3. Weirds & Wonders",
+  "authors": [
+    {
+      "name": "Brett Jacob Tomko"
+    }
+  ],
+  "manifest": "",
+  "download": "",
+  "url": "",
+  "version": "0.9.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "esmodules": [
+    "popup.js"
+  ],
+  "packs": [
+    {
+      "label": "Monday Monsters Vol. 3",
+      "type": "Actor",
+      "name": "monday-monsters-vol3-actors",
+      "path": "./packs/monday-monsters-vol3-actors.db",
+      "system": "pf2e"
+    },
+    {
+      "label": "Monday Monsters Vol. 3 Effects",
+      "type": "Item",
+      "name": "monday-monsters-vol3-effects",
+      "path": "./packs/monday-monsters-vol3-effects.db",
+      "system": "pf2e"
+    }
+  ],
+  "relationships": {
+    "systems": {
+        "id": "pf2e",
+        "compatibility": {
+          "minimum": "4.12.6"
+        }
+      }
+  }
+}
