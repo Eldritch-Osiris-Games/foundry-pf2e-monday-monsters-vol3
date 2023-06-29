@@ -28,7 +28,7 @@ Hooks.once('ready', async function () {
 								</h3>
 								<p>
 								This FoundryVTT module has been prepared by Avery for Eldritch Osiris Games, please report any bugs to:
-								<a href="URL">URL</a>
+								<a href="https://github.com/Eldritch-Osiris-Games/foundry-pf2e-monday-monsters-vol3/issues">GitHub</a>
 								</p>
                 `,
                 buttons: {
