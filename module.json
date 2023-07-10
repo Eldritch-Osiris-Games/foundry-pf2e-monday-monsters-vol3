@@ -13,8 +13,7 @@
   "version": "0.9.0",
   "compatibility": {
     "minimum": "10",
-    "verified": "10",
-    "maximum": "10"
+    "verified": "10"
   },
   "esmodules": ["popup.js"],
   "packs": [
